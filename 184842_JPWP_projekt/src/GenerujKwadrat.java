@@ -30,8 +30,8 @@ public class GenerujKwadrat {
     }
 
     /*
-        Funkcja do sprawdzania czy kwadraty na siebie nachodza
-        Funkcja sprawia, ze program nie chce sie czasami wlaczyc i nie dziala jak powinna
+        Metoda do sprawdzania czy kwadraty na siebie nachodza
+        Metoda sprawia, ze program nie chce sie czasami wlaczyc i nie dziala jak powinna
         TODO: NAPRAWIC, Zamienic GenerujKwadrat[] na int[][] lub Point[]
      */
     public void RozlozKwadraty(JPanel panel) {
